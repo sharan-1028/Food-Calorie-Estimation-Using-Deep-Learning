@@ -74,7 +74,28 @@ python app.py
 
 ## 📸 Screenshots
 
-Project screenshots will be added soon.
+### 🔐 Login Page
+![Login Page](screenshots/Login-Page.png)
+
+---
+
+### 🏠 Home Page
+![Home Page](screenshots/Home-Page.png)
+
+---
+
+### 📊 Prediction Result
+![Prediction Result](screenshots/Prediction-Result.png)
+
+---
+
+### 📈 Daily Nutritional Intake
+![Daily Nutritional Intake](screenshots/Daily-Nutrition-Intake.png)
+
+---
+
+### 📝 Signup Page
+![Signup Page](screenshots/Signup-Page.png)
 
 ---
 

@@ -45,6 +45,7 @@ Food-Calorie-Estimation-Using-Deep-Learning
 ├── uploads/
 ├── tests/
 ├── instance/
+├── screenshots/
 └── README.md
 ```
 

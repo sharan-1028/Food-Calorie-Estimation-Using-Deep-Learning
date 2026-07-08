@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+saved_models/
+food20dataset/
+*.pyc
+*.h5
+*.keras
+*.ckpt
